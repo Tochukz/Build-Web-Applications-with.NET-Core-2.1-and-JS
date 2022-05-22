@@ -66,6 +66,10 @@ __Optionally install enrichers__
 __Optional install Seq sink__  
 * `Serilog.Sinks.Seq`   
 
+#### NLog
+__Install Nuget Packges__  
+* `NLog.Web.AspNetCore`  
+
 ### Error Handling
 
 __Learn More__  
