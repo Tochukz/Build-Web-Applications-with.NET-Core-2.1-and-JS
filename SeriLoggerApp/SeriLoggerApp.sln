@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriLoggerApp", "SeriLoggerApp\SeriLoggerApp.csproj", "{4ABC787E-5FBD-4426-9EF7-683640A8B897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABC787E-5FBD-4426-9EF7-683640A8B897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABC787E-5FBD-4426-9EF7-683640A8B897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABC787E-5FBD-4426-9EF7-683640A8B897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABC787E-5FBD-4426-9EF7-683640A8B897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {460AE4FA-6AA0-46DE-A963-9D1ECDE1B770}
+	EndGlobalSection
+EndGlobal
